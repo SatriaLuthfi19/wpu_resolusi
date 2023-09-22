@@ -3,9 +3,11 @@ rencana konten wpu
 video java
   - es6
   - framework
-    Angular
+    vue
     react
+struktur data dasar
 video php
   laravel
 interview
 vlogs
+python
