@@ -4,6 +4,7 @@ video java
   - es6
   - framework
     vue
+    react
 struktur data dasar
 video php
   laravel
